@@ -1,2 +1,2 @@
 # hello-world
- a new repository
+test hello-world git commands
