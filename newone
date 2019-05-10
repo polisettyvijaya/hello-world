@@ -1,1 +1,8 @@
-console.log("haii);
+a:number=0;
+if(a=0)
+{
+    console.log("haii");
+}else
+{
+    console.log("hello");
+}
