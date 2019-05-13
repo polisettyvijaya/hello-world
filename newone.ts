@@ -1,15 +1,20 @@
-class exx{
-    firstName: string;
-    lastName: string;
+class ggg{
+fn:string;
+    sn:string;
     constructor(){
-        this.firstName =" haii";
-        this.lastName=" hello";
-
-    }
-    getfullname(){
-        return this.firstName +" "+this.lastName;
+this.fn;
+this.sn;
     }
 
+   
+    getfullname(a:string,b:string)
+    {
+       
+       return a+b;
 }
-var ex=new exx();
-console.log(ex.getfullname());
+}
+    var result= new ggg();
+   
+    console.log(result.getfullname("ahhii","dskhkkdlks"));
+    console.log("haii everyone");
+
